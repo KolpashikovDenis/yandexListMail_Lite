@@ -1,0 +1,13 @@
+[t9]
+FileName1=t9.gif
+URL1=https://mc.yandex.ru/watch/784657/1?page-url=https%3A%2F%2Fpassport.yandex.ru%2Fauth%3Fmode%3Dauth%26retpath%3Dhttp%253A%252F%252Fmail.yandex.ru%252Flite&charset=utf-8&ut=noindex&browser-info=ti%3A7%3Aj%3A1%3Ans%3A1555044963251%3As%3A1600x900x24%3Ask%3A1%3Afpr%3A216613626101%3Acn%3A1%3Az%3A240%3Ai%3A20190412085632%3Aet%3A1555044993%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Aar%3A1%3Apa%3A1%3Als%3A800555124832%3Arqn%3A2%3Arn%3A471991162%3Ahid%3A454492117%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%3Av%3A1513%3Arqnl%3A1%3Ast%3A1555044993%3Au%3A1555044993489235821
+Total=1
+RequestHeaderFile=t9_RequestHeader.txt
+RequestBodyFile=t9_RequestBody.txt
+ResponseHeaderFile=t9_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_9.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,9 @@
+GET /favicon.ico HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate
+DNT: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+Host: www.bing.com
+Connection: Keep-Alive
+UA-CPU: AMD64
+

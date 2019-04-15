@@ -1,0 +1,13 @@
+[t6]
+FileName1=t6.html
+URL1=https://mc.yandex.ru/watch/3/1?wmode=7&page-ref=https%3A%2F%2Fpassport.yandex.ru%2Fauth%3Fmode%3Dauth%26retpath%3Dhttp%253A%252F%252Fmail.yandex.ru%252Flite&charset=utf-8&ut=noindex&browser-info=ti%3A10%3Afu%3A2%3Av%3A1513%3Arqnl%3A1%3Ast%3A1555044993%3Au%3A
+Total=2
+RequestHeaderFile=t6_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t6_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_6.xml
+FileName2=t6_monitoring.txt
+URL2=https://passport.yandex.ru/monitoring?app=passport&page=auth.v2&event=load&tm.navigationStart=1555044963251&tm.unloadEventStart=0&tm.unloadEventEnd=0&tm.redirectStart=0&tm.redirectEnd=0&tm.fetchStart=1555044963251&tm.domainLookupStart=1555044963251&tm.domainLookupEnd=1555044963251&tm.connectStart=1555044963251&tm.connectEnd=1555044963251&tm.requestStart=1555044963251&tm.responseStart=1555044963251&tm.responseEnd=1555044963254&tm.domLoading=1555044963251&tm.domInteractive=1555044978092&tm.domContentLoadedEventStart=1555044978243&tm.domContentLoadedEventEnd=1555044978364&tm.domComplete=1555044992759&tm.loadEventStart=1555044992759&tm.loadEventEnd=1555044992761&nav.type=0&nav.redirectCount=0
+[ProtocolInfo]
+ProtocolId=QTWeb

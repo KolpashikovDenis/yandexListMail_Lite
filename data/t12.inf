@@ -1,0 +1,13 @@
+[t12]
+FileName1=t12.gif
+URL1=https://mc.yandex.ru/watch/784657/1?page-ref=https%3A%2F%2Fpassport.yandex.ru%2Fauth%2Fwelcome%3Fmode%3Dauth%26retpath%3Dhttp%253A%252F%252Fmail.yandex.ru%252Flite&page-url=goal%3A%2F%2Fpassport.yandex.ru%2F2step_domik_show_pass_form&charset=utf-8&ut=noindex&browser-info=ti%3A7%3Aj%3A1%3Ans%3A1555044963251%3As%3A1600x900x24%3Ask%3A1%3Aadb%3A2%3Afpr%3A216613626101%3Acn%3A1%3Aw%3A1056x523%3Az%3A240%3Ai%3A20190412085637%3Aet%3A1555044998%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Awh%3A1%3Aar%3A1%3Als%3A800555124832%3Arqn%3A7%3Arn%3A12514874%3Ahid%3A454492117%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%3Agdpr%3A8%3Afu%3A3%3Av%3A1513%3Arqnl%3A1%3Ast%3A1555044998%3Au%3A1555044993489235821%3At%3A%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F
+Total=1
+RequestHeaderFile=t12_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t12_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_12.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

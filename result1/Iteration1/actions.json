@@ -1,0 +1,72 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: lite",
+                "infFile": "t5.inf",
+                "time": 1555331556614
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Submit Data: 1",
+                "infFile": "t6.inf",
+                "time": 1555331556812
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Submit Data: 784657",
+                "infFile": "t7.inf",
+                "time": 1555331556967
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Submit Data: start",
+                "infFile": "t10.inf",
+                "time": 1555331557356
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Submit Data: commit_password",
+                "infFile": "t12.inf",
+                "time": 1555331558128
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: Inbox",
+                "infFile": "t16.inf",
+                "time": 1555331558922
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: new",
+                "infFile": "t17.inf",
+                "time": 1555331559625
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "OpenYandex",
+                "rawStartTime": 1555331555615,
+                "rawEndTime": 1555331556618,
+                "thinkTime": 0.0,
+                "wastedTime": 0.2684915065765381
+            },
+            {
+                "transactionName": "LoginYandex",
+                "rawStartTime": 1555331556623,
+                "rawEndTime": 1555331558923,
+                "thinkTime": 0.0,
+                "wastedTime": 0.14748072624206544
+            },
+            {
+                "transactionName": "ReadMessages",
+                "rawStartTime": 1555331558924,
+                "rawEndTime": 1555331559627,
+                "thinkTime": 0.0,
+                "wastedTime": 0.01587390899658203
+            }
+        ]
+    }
+]

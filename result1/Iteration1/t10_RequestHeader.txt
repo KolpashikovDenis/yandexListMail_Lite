@@ -1,0 +1,14 @@
+POST /registration-validations/auth/multi_step/start HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Referer: https://passport.yandex.ru/auth?mode=auth&retpath=http%3A%2F%2Fmail.yandex.ru%2Flite
+X-Requested-With: XMLHttpRequest
+DNT: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU
+Accept: */*
+Connection: Keep-Alive
+Host: passport.yandex.ru
+Cookie: yandexuid=12077421555331556; uniqueuid=598406231555331556; _ym_wasSynced=%7B%22time%22%3A1555044992777%2C%22params%22%3A%7B%22eu%22%3A0%7D%2C%22bkParams%22%3A%7B%7D%7D; _ym_uid=1555044993489235821; _ym_d=1555044993; mda=0; i=Z01dfrZUpJplnqSAGVvOEszRakF80COATiLwvmRFkZibzvYgKnxTaOogijtzV7VoDCpmHs5qF8T7WW1nr1GpbNjD6zg=; yp=1870691557.yrtsi.1555331557; _ym_visorc_784657=b; _ym_isad=2
+Content-Length: 138
+

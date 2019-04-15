@@ -1,0 +1,11 @@
+[t19]
+FileName1=t19.html
+URL1=https://mc.yandex.ru/watch/16082914?wmode=7&page-url=https%3A%2F%2Fmail.yandex.ru%2Flite&charset=utf-8&ut=noindex&site-info=%7B%22lang%22%3A%22ru%22%2C%22skin%22%3A%22lite%22%7D&browser-info=ti%3A10%3Aj%3A1%3Ans%3A1555045002140%3As%3A1600x900x24%3Ask%3A1%3Aadb%3A2%3Afpr%3A216613626101%3Acn%3A1%3Aw%3A1073x523%3Az%3A240%3Ai%3A20190412085644%3Aet%3A1555045004%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Apv%3A1%3Als%3A533120117672%3Arqn%3A1%3Arn%3A150200272%3Ahid%3A1033423323%3Ads%3A0%2C0%2C1%2C2%2C313%2C0%2C0%2C1704%2C5%2C%2C%2C%2C2018%3Agdpr%3A13%3Av%3A1513%3Arqnl%3A1%3Ast%3A1555045004%3Au%3A1555044993489235821%3At%3A%D0%92%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B8%D0%B5%20(5%20%D0%BD%D0%BE%D0%B2%D1%8B%D1%85%20%D0%BF%D0%B8%D1%81%D0%B5%D0%BC)%20%E2%80%94%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9F%D0%BE%D1%87%D1%82%D0%B0
+Total=1
+RequestHeaderFile=t19_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t19_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_19.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,658 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "x-requested-with",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "ua-cpu",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "origin",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "dnt",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "cache-control",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": true,
+      "type": "text/xml"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/plain"
+    },
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/css"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/x-icon"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/png"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/jpeg"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/gif"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/x-javascript"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/x-font-woff"
+    },
+    {
+      "IsNonResource": true,
+      "type": "application/json"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/javascript"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/font-woff"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "IsWinInetMode": false,
+    "MaxUsedConnections": 25,
+    "RecordedBrowser": "Internet Explorer",
+    "RecordingDate": "апр-12-2019",
+    "RecordingDuration": 78079,
+    "RecordingMode": "N/A",
+    "RecordingTimeStamp": 1555044866,
+    "RecordingType": "Browser",
+    "TotalBytesReceived": 768849,
+    "TotalBytesSent": 38079,
+    "TotalRequests": 49,
+    "UserAgent": "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"
+  },
+  "HostInfo": [
+    {
+      "DomainName": "yastatic.net",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "[2a02:6b8:20::215]",
+          "IncludeInScript": true,
+          "Name": "yastatic.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 78,
+              "EventId": 679,
+              "HttpStatus": 200,
+              "Size": 272,
+              "URL": "https://yastatic.net/mail/lite/1.43.1/js/pages/_messages.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 78,
+              "EventId": 675,
+              "HttpStatus": 200,
+              "Size": 186,
+              "URL": "https://yastatic.net/mail/lite/1.43.1/blocks/b-messages/message/b-messages__message_new.gif"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 78,
+              "EventId": 654,
+              "HttpStatus": 200,
+              "Size": 1374,
+              "URL": "https://yastatic.net/mail/lite/1.43.1/js/_lite.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 140,
+              "EventId": 652,
+              "HttpStatus": 200,
+              "Size": 1230,
+              "URL": "https://yastatic.net/lego/_/UlfClH7m6Sj10jLQ5KxM5cSk5cc.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 78,
+              "EventId": 648,
+              "HttpStatus": 200,
+              "Size": 2865,
+              "URL": "https://yastatic.net/mail/lite/_/1OYsyKle3nTsnm7Dpg26_0S_iyg.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 78,
+              "EventId": 646,
+              "HttpStatus": 200,
+              "Size": 2347,
+              "URL": "https://yastatic.net/mail/lite/_/McavqyOT-yCT4x0wvdbDCIxIphg.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 109,
+              "EventId": 644,
+              "HttpStatus": 200,
+              "Size": 177,
+              "URL": "https://yastatic.net/mail/lite/1.43.1/blocks/b-messages/message/b-messages__message_important.gif"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 172,
+              "EventId": 641,
+              "HttpStatus": 200,
+              "Size": 28815,
+              "URL": "https://yastatic.net/jquery/1.5.2/jquery.min.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 94,
+              "EventId": 639,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://yastatic.net/lego/_/La6qi18Z8LwgnZdsAr1qy1GwCwo.gif"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 78,
+              "EventId": 637,
+              "HttpStatus": 200,
+              "Size": 3288,
+              "URL": "https://yastatic.net/mail/lite/1.43.1/pages/messages/_messages_lite.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/x-icon",
+              "DownloadTime": 156,
+              "EventId": 554,
+              "HttpStatus": 200,
+              "Size": 41566,
+              "URL": "https://yastatic.net/morda-logo/i/favicon_islands.ico"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 78,
+              "EventId": 481,
+              "HttpStatus": 200,
+              "Size": 1046,
+              "URL": "https://yastatic.net/passport-frontend/_/xbpPHCInUPhIYlqVdb7FamxP9EE.png"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 78,
+              "EventId": 479,
+              "HttpStatus": 200,
+              "Size": 47,
+              "URL": "https://yastatic.net/nearest.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/font-woff",
+              "DownloadTime": 250,
+              "EventId": 458,
+              "HttpStatus": 200,
+              "Size": 58044,
+              "URL": "https://yastatic.net/islands/_/7RkupUWVEcepjeZPFv1xCDdQFhc.woff"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/font-woff",
+              "DownloadTime": 234,
+              "EventId": 456,
+              "HttpStatus": 200,
+              "Size": 60526,
+              "URL": "https://yastatic.net/islands/_/6n8FrCwGXwQ5ZumBk1SCxOl2ec8.woff"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/x-font-woff",
+              "DownloadTime": 203,
+              "EventId": 445,
+              "HttpStatus": 200,
+              "Size": 55482,
+              "URL": "https://yastatic.net/islands/_/g0MeJlAWVRZjlLOLzhOGwwDQzKY.woff"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 172,
+              "EventId": 443,
+              "HttpStatus": 200,
+              "Size": 57501,
+              "URL": "https://yastatic.net/passport-frontend/_/EUxceAgVsx2B01NrliHAcXRG9Hs.jpg"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 172,
+              "EventId": 434,
+              "HttpStatus": 200,
+              "Size": 72085,
+              "URL": "https://yastatic.net/passport-frontend/0.2.108-14/public/js/react.authv2.react.ru.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 172,
+              "EventId": 410,
+              "HttpStatus": 200,
+              "Size": 92709,
+              "URL": "https://yastatic.net/passport-frontend/0.2.108-14/public/js/react.authv2.vendor.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 172,
+              "EventId": 407,
+              "HttpStatus": 200,
+              "Size": 110986,
+              "URL": "https://yastatic.net/passport-frontend/0.2.108-14/public/css/react.authv2.css"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 172,
+              "EventId": 383,
+              "HttpStatus": 200,
+              "Size": 31684,
+              "URL": "https://yastatic.net/jquery/1.9.1/jquery.min.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 78,
+              "EventId": 379,
+              "HttpStatus": 200,
+              "Size": 10654,
+              "URL": "https://yastatic.net/passport-frontend/0.2.108-14/public/js/react.authv2.lego.ru.js"
+            }
+          ],
+          "SSLCipher": "ECDHE-ECDSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "yandex.ru",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "[2a02:6b8::5:114]",
+          "IncludeInScript": true,
+          "Name": "ysa-static.passport.yandex.ru",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 125,
+              "EventId": 388,
+              "HttpStatus": 200,
+              "Size": 95,
+              "URL": "https://ysa-static.passport.yandex.ru/static/1/96eb29b255b84bfd7016c2420aa13870/d.png?ex=yes"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-SHA256",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "[2a02:6b8::24]",
+          "IncludeInScript": true,
+          "Name": "passport.yandex.ru",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 421,
+              "EventId": 613,
+              "HttpStatus": 200,
+              "Size": 15,
+              "URL": "https://passport.yandex.ru/registration-validations/auth/multi_step/commit_password"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 312,
+              "EventId": 596,
+              "HttpStatus": 200,
+              "Size": 312,
+              "URL": "https://passport.yandex.ru/registration-validations/auth/multi_step/start"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 141,
+              "EventId": 543,
+              "HttpStatus": 200,
+              "Size": 2,
+              "URL": "https://passport.yandex.ru/monitoring?app=passport&page=auth.v2&event=load&tm.navigationStart=1555044963251&tm.unloadEventStart=0&tm.unloadEventEnd=0&tm.redirectStart=0&tm.redirectEnd=0&tm.fetchStart=1555044963251&tm.domainLookupStart=1555044963251&tm.domainLookupEnd=1555044963251&tm.connectStart=1555044963251&tm.connectEnd=1555044963251&tm.requestStart=1555044963251&tm.responseStart=1555044963251&tm.responseEnd=1555044963254&tm.domLoading=1555044963251&tm.domInteractive=1555044978092&tm.domContentLoadedEventStart=1555044978243&tm.domContentLoadedEventEnd=1555044978364&tm.domComplete=1555044992759&tm.loadEventStart=1555044992759&tm.loadEventEnd=1555044992761&nav.type=0&nav.redirectCount=0"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 218,
+              "EventId": 330,
+              "HttpStatus": 200,
+              "Size": 6777,
+              "URL": "https://passport.yandex.ru/passport?mode=auth&retpath=http%3A%2F%2Fmail.yandex.ru%2Flite"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-SHA256",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "[2a02:6b8::1:119]",
+          "IncludeInScript": true,
+          "Name": "mc.yandex.ru",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 78,
+              "EventId": 687,
+              "HttpStatus": 200,
+              "Size": 133,
+              "URL": "https://mc.yandex.ru/watch/16082914?wmode=7&page-url=https%3A%2F%2Fmail.yandex.ru%2Flite&charset=utf-8&ut=noindex&site-info=%7B%22lang%22%3A%22ru%22%2C%22skin%22%3A%22lite%22%7D&browser-info=ti%3A10%3Aj%3A1%3Ans%3A1555045002140%3As%3A1600x900x24%3Ask%3A1%3Aadb%3A2%3Afpr%3A216613626101%3Acn%3A1%3Aw%3A1073x523%3Az%3A240%3Ai%3A20190412085644%3Aet%3A1555045004%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Apv%3A1%3Als%3A533120117672%3Arqn%3A1%3Arn%3A150200272%3Ahid%3A1033423323%3Ads%3A0%2C0%2C1%2C2%2C313%2C0%2C0%2C1704%2C5%2C%2C%2C%2C2018%3Agdpr%3A13%3Av%3A1513%3Arqnl%3A1%3Ast%3A1555045004%3Au%3A1555044993489235821%3At%3A%D0%92%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B8%D0%B5%20(5%20%D0%BD%D0%BE%D0%B2%D1%8B%D1%85%20%D0%BF%D0%B8%D1%81%D0%B5%D0%BC)%20%E2%80%94%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9F%D0%BE%D1%87%D1%82%D0%B0"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 156,
+              "EventId": 681,
+              "HttpStatus": 200,
+              "Size": 44092,
+              "URL": "https://mc.yandex.ru/metrika/watch.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 156,
+              "EventId": 617,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://mc.yandex.ru/watch/784657/1?page-url=https%3A%2F%2Fpassport.yandex.ru%2Fauth%2Fwelcome%3Fmode%3Dauth%26retpath%3Dhttp%253A%252F%252Fmail.yandex.ru%252Flite&charset=utf-8&ut=noindex&browser-info=ti%3A7%3Aj%3A1%3Ans%3A1555044963251%3As%3A1600x900x24%3Ask%3A1%3Aadb%3A2%3Afpr%3A216613626101%3Acn%3A1%3Az%3A240%3Ai%3A20190412085642%3Aet%3A1555045002%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Awh%3A1%3Aar%3A1%3Apa%3A1%3Als%3A800555124832%3Arqn%3A9%3Arn%3A383870965%3Ahid%3A454492117%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%3Agdpr%3A8%3Av%3A1513%3Arqnl%3A1%3Ast%3A1555045002%3Au%3A1555044993489235821"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 94,
+              "EventId": 615,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://mc.yandex.ru/watch/784657/1?page-ref=https%3A%2F%2Fpassport.yandex.ru%2Fauth%2Fwelcome%3Fmode%3Dauth%26retpath%3Dhttp%253A%252F%252Fmail.yandex.ru%252Flite&page-url=goal%3A%2F%2Fpassport.yandex.ru%2Fone_domik_auth_sucess&charset=utf-8&ut=noindex&browser-info=ti%3A7%3Aj%3A1%3Ans%3A1555044963251%3As%3A1600x900x24%3Ask%3A1%3Aadb%3A2%3Afpr%3A216613626101%3Acn%3A1%3Aw%3A1056x523%3Az%3A240%3Ai%3A20190412085642%3Aet%3A1555045002%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Awh%3A1%3Aar%3A1%3Als%3A800555124832%3Arqn%3A8%3Arn%3A246782495%3Ahid%3A454492117%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%3Agdpr%3A8%3Afu%3A3%3Av%3A1513%3Arqnl%3A1%3Ast%3A1555045002%3Au%3A1555044993489235821%3At%3A%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 78,
+              "EventId": 611,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://mc.yandex.ru/clmap/784657?page-url=https%3A%2F%2Fpassport.yandex.ru%2Fauth%2Fwelcome%3Fmode%3Dauth%26retpath%3Dhttp%253A%252F%252Fmail.yandex.ru%252Flite&pointer-click=rn%3A717706469%3Ax%3A-89128%3Ay%3A-820553%3At%3A90%3Ap%3A%3FA1FAAA1A2AA1AA&browser-info=ti%3A4%3Arqnl%3A1%3Ast%3A1555045002%3Au%3A1555044993489235821"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 156,
+              "EventId": 602,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://mc.yandex.ru/watch/784657/1?page-url=https%3A%2F%2Fpassport.yandex.ru%2Fauth%2Fwelcome%3Fmode%3Dauth%26retpath%3Dhttp%253A%252F%252Fmail.yandex.ru%252Flite&charset=utf-8&ut=noindex&browser-info=ti%3A7%3Aj%3A1%3Ans%3A1555044963251%3As%3A1600x900x24%3Ask%3A1%3Aadb%3A2%3Afpr%3A216613626101%3Acn%3A1%3Az%3A240%3Ai%3A20190412085637%3Aet%3A1555044998%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Awh%3A1%3Aar%3A1%3Apa%3A1%3Als%3A800555124832%3Arqn%3A6%3Arn%3A528513008%3Ahid%3A454492117%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%3Agdpr%3A8%3Av%3A1513%3Arqnl%3A1%3Ast%3A1555044998%3Au%3A1555044993489235821"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 156,
+              "EventId": 600,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://mc.yandex.ru/watch/784657/1?page-url=https%3A%2F%2Fpassport.yandex.ru%2Fauth%3Fmode%3Dauth%26retpath%3Dhttp%253A%252F%252Fmail.yandex.ru%252Flite&charset=utf-8&ut=noindex&browser-info=ti%3A7%3Aj%3A1%3Ans%3A1555044963251%3As%3A1600x900x24%3Ask%3A1%3Aadb%3A2%3Afpr%3A216613626101%3Acn%3A1%3Az%3A240%3Ai%3A20190412085637%3Aet%3A1555044998%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Awh%3A1%3Aar%3A1%3Apa%3A1%3Als%3A800555124832%3Arqn%3A5%3Arn%3A114575641%3Ahid%3A454492117%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%3Agdpr%3A8%3Av%3A1513%3Arqnl%3A1%3Ast%3A1555044998%3Au%3A1555044993489235821"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 93,
+              "EventId": 598,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://mc.yandex.ru/watch/784657/1?page-ref=https%3A%2F%2Fpassport.yandex.ru%2Fauth%2Fwelcome%3Fmode%3Dauth%26retpath%3Dhttp%253A%252F%252Fmail.yandex.ru%252Flite&page-url=goal%3A%2F%2Fpassport.yandex.ru%2F2step_domik_show_pass_form&charset=utf-8&ut=noindex&browser-info=ti%3A7%3Aj%3A1%3Ans%3A1555044963251%3As%3A1600x900x24%3Ask%3A1%3Aadb%3A2%3Afpr%3A216613626101%3Acn%3A1%3Aw%3A1056x523%3Az%3A240%3Ai%3A20190412085637%3Aet%3A1555044998%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Awh%3A1%3Aar%3A1%3Als%3A800555124832%3Arqn%3A7%3Arn%3A12514874%3Ahid%3A454492117%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%3Agdpr%3A8%3Afu%3A3%3Av%3A1513%3Arqnl%3A1%3Ast%3A1555044998%3Au%3A1555044993489235821%3At%3A%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 78,
+              "EventId": 594,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://mc.yandex.ru/clmap/784657?page-url=https%3A%2F%2Fpassport.yandex.ru%2Fauth%3Fmode%3Dauth%26retpath%3Dhttp%253A%252F%252Fmail.yandex.ru%252Flite&pointer-click=rn%3A270250972%3Ax%3A-89128%3Ay%3A-793247%3At%3A46%3Ap%3A%3FA2FAAAA1A2AA1AA&browser-info=ti%3A4%3Arqnl%3A1%3Ast%3A1555044997%3Au%3A1555044993489235821"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 109,
+              "EventId": 588,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://mc.yandex.ru/watch/784657/1?page-ref=https%3A%2F%2Fpassport.yandex.ru%2Fauth%3Fmode%3Dauth%26retpath%3Dhttp%253A%252F%252Fmail.yandex.ru%252Flite&page-url=goal%3A%2F%2Fpassport.yandex.ru%2F2step_domik_show_login_form&charset=utf-8&ut=noindex&browser-info=ti%3A7%3Aj%3A1%3Ans%3A1555044963251%3As%3A1600x900x24%3Ask%3A1%3Afpr%3A216613626101%3Acn%3A1%3Aw%3A1056x523%3Az%3A240%3Ai%3A20190412085632%3Aet%3A1555044993%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Aar%3A1%3Als%3A800555124832%3Arqn%3A3%3Arn%3A595675586%3Ahid%3A454492117%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%3Afu%3A3%3Av%3A1513%3Arqnl%3A1%3Ast%3A1555044993%3Au%3A1555044993489235821%3At%3A%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 234,
+              "EventId": 586,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://mc.yandex.ru/watch/784657/1?page-url=https%3A%2F%2Fpassport.yandex.ru%2Fauth%3Fmode%3Dauth%26retpath%3Dhttp%253A%252F%252Fmail.yandex.ru%252Flite&charset=utf-8&ut=noindex&browser-info=ti%3A7%3Aj%3A1%3Ans%3A1555044963251%3As%3A1600x900x24%3Ask%3A1%3Afpr%3A216613626101%3Acn%3A1%3Az%3A240%3Ai%3A20190412085632%3Aet%3A1555044993%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Aar%3A1%3Apa%3A1%3Als%3A800555124832%3Arqn%3A2%3Arn%3A471991162%3Ahid%3A454492117%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%3Av%3A1513%3Arqnl%3A1%3Ast%3A1555044993%3Au%3A1555044993489235821"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 187,
+              "EventId": 582,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://mc.yandex.ru/watch/784657/1?page-url=https%3A%2F%2Fpassport.yandex.ru%2Fauth%3Fmode%3Dauth%26retpath%3Dhttp%253A%252F%252Fmail.yandex.ru%252Flite&charset=utf-8&ut=noindex&browser-info=ti%3A7%3Aj%3A1%3Ans%3A1555044963251%3As%3A1600x900x24%3Ask%3A1%3Afpr%3A216613626101%3Acn%3A1%3Az%3A240%3Ai%3A20190412085632%3Aet%3A1555044993%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Aar%3A1%3Apa%3A1%3Als%3A800555124832%3Arqn%3A1%3Arn%3A665130217%3Ahid%3A454492117%3Ads%3A0%2C0%2C0%2C3%2C0%2C0%2C0%2C14841%2C121%2C%2C%2C%2C14992%3Av%3A1513%3Arqnl%3A1%3Ast%3A1555044993%3Au%3A1555044993489235821"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/gif",
+              "DownloadTime": 94,
+              "EventId": 578,
+              "HttpStatus": 200,
+              "Size": 61,
+              "URL": "https://mc.yandex.ru/metrika/advert.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 93,
+              "EventId": 545,
+              "HttpStatus": 200,
+              "Size": 152,
+              "URL": "https://mc.yandex.ru/watch/784657/1?wmode=7&page-url=https%3A%2F%2Fpassport.yandex.ru%2Fauth%3Fmode%3Dauth%26retpath%3Dhttp%253A%252F%252Fmail.yandex.ru%252Flite&charset=utf-8&ut=noindex&exp=PLPv0K295hvn67OKLpgvS5QpZtnHtpLAbfzP7ywFtMHXyJ3PPFvLCHVzFhstc_GWswuiZCO5mqbEAZvNQeNglg6vs7LX7Dp2inQ8pTfoV_3u-baBJ2e1x01FrFCeVi14GNH7jebkB5g&browser-info=ti%3A10%3Aj%3A1%3Ans%3A1555044963251%3As%3A1600x900x24%3Ask%3A1%3Afpr%3A216613626101%3Acn%3A1%3Aw%3A1056x523%3Az%3A240%3Ai%3A20190412085632%3Aet%3A1555044993%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Awh%3A1%3Apv%3A1%3Als%3A800555124832%3Arqn%3A4%3Arn%3A833549219%3Ahid%3A454492117%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C29508%2C29508%2C2%2C%3Awn%3A49688%3Ahl%3A1%3Agdpr%3A8%3Av%3A1513%3Arqnl%3A1%3Ast%3A1555044993%3Au%3A1555044993489235821%3At%3A%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 94,
+              "EventId": 539,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://mc.yandex.ru/watch/784657?wmode=7&page-url=https%3A%2F%2Fpassport.yandex.ru%2Fauth%3Fmode%3Dauth%26retpath%3Dhttp%253A%252F%252Fmail.yandex.ru%252Flite&charset=utf-8&ut=noindex&exp=PLPv0K295hvn67OKLpgvS5QpZtnHtpLAbfzP7ywFtMHXyJ3PPFvLCHVzFhstc_GWswuiZCO5mqbEAZvNQeNglg6vs7LX7Dp2inQ8pTfoV_3u-baBJ2e1x01FrFCeVi14GNH7jebkB5g&browser-info=ti%3A10%3Aj%3A1%3Ans%3A1555044963251%3As%3A1600x900x24%3Ask%3A1%3Afpr%3A216613626101%3Acn%3A1%3Aw%3A1056x523%3Az%3A240%3Ai%3A20190412085632%3Aet%3A1555044993%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Awh%3A1%3Apv%3A1%3Als%3A800555124832%3Arqn%3A4%3Arn%3A833549219%3Ahid%3A454492117%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C29508%2C29508%2C2%2C%3Awn%3A49688%3Ahl%3A1%3Agdpr%3A8%3Av%3A1513%3Arqnl%3A1%3Ast%3A1555044993%3Au%3A1555044993489235821%3At%3A%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 109,
+              "EventId": 536,
+              "HttpStatus": 200,
+              "Size": 35,
+              "URL": "https://mc.yandex.ru/watch/3/1?wmode=7&page-ref=https%3A%2F%2Fpassport.yandex.ru%2Fauth%3Fmode%3Dauth%26retpath%3Dhttp%253A%252F%252Fmail.yandex.ru%252Flite&charset=utf-8&ut=noindex&browser-info=ti%3A10%3Afu%3A2%3Av%3A1513%3Arqnl%3A1%3Ast%3A1555044993%3Au%3A"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 172,
+              "EventId": 532,
+              "HttpStatus": 200,
+              "Size": 44092,
+              "URL": "https://mc.yandex.ru/metrika/watch.js?_=1555044978111"
+            }
+          ],
+          "SSLCipher": "ECDHE-ECDSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "[2a02:6b8::25]",
+          "IncludeInScript": true,
+          "Name": "mail.yandex.ru",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 281,
+              "EventId": 619,
+              "HttpStatus": 200,
+              "Size": 5966,
+              "URL": "https://mail.yandex.ru/lite"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 141,
+              "EventId": 251,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://mail.yandex.ru/lite"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "microsoft.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "[2606:2800:133:206e:1315:22a5:2006:24fd]",
+          "IncludeInScript": true,
+          "Name": "iecvlist.microsoft.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/xml",
+              "DownloadTime": 78,
+              "EventId": 516,
+              "HttpStatus": 200,
+              "Size": 33286,
+              "URL": "https://iecvlist.microsoft.com/IE11/1479242656000/iecompatviewlist.xml"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES256-SHA384",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "bing.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "[2620:1ec:c11::200]",
+          "IncludeInScript": true,
+          "Name": "www.bing.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/x-icon",
+              "DownloadTime": 94,
+              "EventId": 304,
+              "HttpStatus": 200,
+              "Size": 237,
+              "URL": "https://www.bing.com/favicon.ico"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/x-icon",
+              "DownloadTime": 78,
+              "EventId": 294,
+              "HttpStatus": 200,
+              "Size": 237,
+              "URL": "https://www.bing.com/favicon.ico"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 4
+}

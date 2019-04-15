@@ -1,0 +1,15 @@
+[t10]
+FileName1=t10.gif
+URL1=https://mc.yandex.ru/watch/784657/1?page-ref=https%3A%2F%2Fpassport.yandex.ru%2Fauth%3Fmode%3Dauth%26retpath%3Dhttp%253A%252F%252Fmail.yandex.ru%252Flite&page-url=goal%3A%2F%2Fpassport.yandex.ru%2F2step_domik_show_login_form&charset=utf-8&ut=noindex&browser-info=ti%3A7%3Aj%3A1%3Ans%3A1555044963251%3As%3A1600x900x24%3Ask%3A1%3Afpr%3A216613626101%3Acn%3A1%3Aw%3A1056x523%3Az%3A240%3Ai%3A20190412085632%3Aet%3A1555044993%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Aar%3A1%3Als%3A800555124832%3Arqn%3A3%3Arn%3A595675586%3Ahid%3A454492117%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%3Afu%3A3%3Av%3A1513%3Arqnl%3A1%3Ast%3A1555044993%3Au%3A1555044993489235821%3At%3A%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F
+Total=2
+RequestHeaderFile=t10_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t10_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_10.xml
+FileName2=t10_784657.gif
+URL2=https://mc.yandex.ru/clmap/784657?page-url=https%3A%2F%2Fpassport.yandex.ru%2Fauth%3Fmode%3Dauth%26retpath%3Dhttp%253A%252F%252Fmail.yandex.ru%252Flite&pointer-click=rn%3A270250972%3Ax%3A-89128%3Ay%3A-793247%3At%3A46%3Ap%3A%3FA2FAAAA1A2AA1AA&browser-info=ti%3A4%3Arqnl%3A1%3Ast%3A1555044997%3Au%3A1555044993489235821
+[ProtocolInfo]
+ProtocolId=QTWeb

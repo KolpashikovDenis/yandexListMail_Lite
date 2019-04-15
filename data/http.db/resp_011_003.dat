@@ -1,0 +1,1 @@
+{"status":"ok","magic_link_email":"pflbTestTestov@yandex.ru","csrf_token":"29a68095c26ff04e8c52115b5a461821","can_authorize":true,"preferred_auth_method":"password","auth_methods":["password","magic_link","magic_x_token"],"track_id":"dc1a03e1c75427a10eb382c5977ab9edcd","id":"c659fe81ab87f4870975411c940b327ecd"}

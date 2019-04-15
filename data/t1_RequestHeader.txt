@@ -1,0 +1,10 @@
+GET /lite HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Accept-Language: ru-RU
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: mail.yandex.ru
+DNT: 1
+Connection: Keep-Alive
+Cookie: ymai_iale=1; yandexuid=1140716391554972219; _ym_wasSynced=%7B%22time%22%3A1554972224802%2C%22params%22%3A%7B%22eu%22%3A0%7D%2C%22bkParams%22%3A%7B%7D%7D; _ym_uid=1554972225315822506; _ym_d=1554972225; mda=0; i=GoPTbuY2Btrz1fx1FY8NzSMns9+dp6oMu1x9o5YCdEbEghNtdtDUcEPAqLn5ktrjB86dXwFXHy2bVoAN2ZCH7GrGbKw=; yp=1870332238.yrtsi.1554972238#1870332266.udn.cDpwZmxiVGVzdFRlc3Rvdg%3D%3D; Session_id=3:1554972266.5.0.1554972266068:0-_5OwUKUK2CAJ_LcAQBIA:31.1|861056795.0.2|197600.259699.cTRmCWcups9manfGGVR2Sbcz48c; sessionid2=3:1554972266.5.0.1554972266068:0-_5OwUKUK2CAJ_LcAQBIA:31.1|861056795.0.2|197600.388058.Bh1J4ksLql7Ks04kbFY_fHX1y3A; L=flFEYWhFelZ+DlNpBnYEA1VkVXBkYFhRBRwUEz8OMCI8HAEiJBw=.1554972266.13832.312570.360ebf369ae5279d44d5325afa2d8ae1; yandex_login=pflbTestTestov
+

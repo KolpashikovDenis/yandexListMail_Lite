@@ -1,0 +1,29 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 15 Apr 2019 12:32:38 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 15
+Connection: keep-alive
+Keep-Alive: timeout=120
+X-Content-Security-Policy: default-src 'none'; style-src 'self' yastatic.net 'unsafe-inline' 'unsafe-eval'; script-src 'self' yastatic.net mc.yandex.ru api-maps.yandex.ru suggest-maps.yandex.net export.yandex.ru 'unsafe-eval' 'unsafe-inline' 'nonce-789a16da-0775-460d-b483-3f0c74838a2b'; img-src 'self' yastatic.net https://ysa-static.passport.yandex.ru https://ysa-static.passport.yandex.net yandex.st data: mc.yandex.ru api-maps.yandex.ru *.captcha.yandex.net avatars.mds.yandex.net avatars.mdst.yandex.net clck.yandex.ru *.maps.yandex.net yapic.yandex.ru img.yandex.ru static-maps.yandex.ru https://video-tub-ru.yandex.net https://img0-tub-ru.yandex.net https://img1-tub-ru.yandex.net https://img2-tub-ru.yandex.net https://img3-tub-ru.yandex.net mc.webvisor.com mc.webvisor.org; font-src 'self' data: yastatic.net; object-src yastatic.net; media-src *.captcha.yandex.net data:; connect-src mail.yandex.ru 'self' mc.yandex.ru suggest-maps.yandex.net mc.webvisor.com mc.webvisor.org yandex.ru; frame-src 'self' yandex.st s4.money.yandex.net yandex.ru  pass.yandex.ru passport.yandex.ru https://trust.yandex.ru blob: mc.yandex.ru; child-src 'self' yandex.st yandex.ru  passport.yandex.ru pass.yandex.ru https://trust.yandex.ru blob: mc.yandex.ru; report-uri https://csp.yandex.net/csp?from=passport&yandex_login=&yandexuid=12077421555331556
+X-Frame-Options: DENY
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+Surrogate-Control: no-store
+Cache-Control: no-store, no-cache, must-revalidate, proxy-revalidate
+Pragma: no-cache
+Expires: 0
+X-DNS-Prefetch-Control: off
+X-XSS-Protection: 1; mode=block
+P3P: policyref="/w3c/p3p.xml", CP="NON DSP ADM DEV PSD IVDo OUR IND STP PHY PRE NAV UNI"
+Set-Cookie: Session_id=3:1555331558.5.0.1555331558897:FmmtHw:53.1|861056795.0.2|197800.487183.YPm0iWTdDJxhjXibka6fBTit8bw; Domain=.yandex.ru; Expires=Tue, 19 Jan 2038 03:14:07 GMT; Secure; HttpOnly; Path=/
+Set-Cookie: sessionid2=3:1555331558.5.0.1555331558897:FmmtHw:53.1|861056795.0.2|197800.739882.MWGjr8IOw92c2NZ7FVrH8LkJyoc; Domain=.yandex.ru; Expires=Tue, 19 Jan 2038 03:14:07 GMT; Secure; HttpOnly; Path=/
+Set-Cookie: yp=1870691557.yrtsi.1555331557#1870691558.udn.cDpwZmxiVGVzdFRlc3Rvdg%3D%3D; Domain=.yandex.ru; Expires=Tue, 19 Jan 2038 03:14:07 GMT; Path=/
+Set-Cookie: ys=udn.cDpwZmxiVGVzdFRlc3Rvdg%3D%3D; Domain=.yandex.ru; Path=/
+Set-Cookie: L=CVJKcUp5WVVgQkJzR3MCaFcMXHdAZ1RCQ1M6LiQsMgQRHwE3KC8=.1555331558.13836.376331.d5576d4fd1267acfef9034159337c7e6; Domain=.yandex.ru; Expires=Tue, 19 Jan 2038 03:14:07 GMT; Path=/
+Set-Cookie: yandex_login=pflbTestTestov; Domain=.yandex.ru; Expires=Tue, 19 Jan 2038 03:14:07 GMT; Path=/
+Set-Cookie: lah=M0tyQGLUtq_Pd22sgZrTXE84QUkJMwkXR1AlOAQsMgQqDA.1555331558.13836.1.89918224512a3f986e5e11747fe681b5; Domain=.passport.yandex.ru; Expires=Tue, 19 Jan 2038 03:14:07 GMT; Secure; HttpOnly; Path=/
+Set-Cookie: mda2_beacon=1555331558902; Domain=.passport.yandex.ru; Expires=Tue, 19 Jan 2038 03:14:07 GMT; Secure; Path=/
+ETag: W/"f-DwR5h0v29KcoEJmxXfJ8Jw"
+Strict-Transport-Security: max-age=315360000; includeSubDomains; preload
+

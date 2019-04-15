@@ -1,0 +1,15 @@
+POST /watch/3/1?wmode=7&page-ref=https%3A%2F%2Fpassport.yandex.ru%2Fauth%3Fmode%3Dauth%26retpath%3Dhttp%253A%252F%252Fmail.yandex.ru%252Flite&charset=utf-8&ut=noindex&browser-info=ti%3A10%3Afu%3A2%3Av%3A1513%3Arqnl%3A1%3Ast%3A1555044993%3Au%3A HTTP/1.1
+Accept: */*
+Content-Type: application/x-www-form-urlencoded
+Referer: https://passport.yandex.ru/auth?mode=auth&retpath=http%3A%2F%2Fmail.yandex.ru%2Flite
+Accept-Language: ru-RU
+Origin: https://passport.yandex.ru
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+Host: mc.yandex.ru
+Content-Length: 0
+DNT: 1
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: yandexuid=392970501555044979
+

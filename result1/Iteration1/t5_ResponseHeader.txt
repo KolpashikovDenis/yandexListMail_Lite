@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 15 Apr 2019 12:32:36 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=120
+Vary: Accept-Encoding
+X-Content-Security-Policy: default-src 'none'; style-src 'self' yastatic.net 'unsafe-inline' 'unsafe-eval'; script-src 'self' yastatic.net mc.yandex.ru api-maps.yandex.ru suggest-maps.yandex.net export.yandex.ru 'unsafe-eval' 'unsafe-inline' 'nonce-ebfe932f-b177-42ab-b6e6-e9fdd1b73325'; img-src 'self' yastatic.net https://ysa-static.passport.yandex.ru https://ysa-static.passport.yandex.net yandex.st data: mc.yandex.ru api-maps.yandex.ru *.captcha.yandex.net avatars.mds.yandex.net avatars.mdst.yandex.net clck.yandex.ru *.maps.yandex.net yapic.yandex.ru img.yandex.ru static-maps.yandex.ru https://video-tub-ru.yandex.net https://img0-tub-ru.yandex.net https://img1-tub-ru.yandex.net https://img2-tub-ru.yandex.net https://img3-tub-ru.yandex.net mc.webvisor.com mc.webvisor.org; font-src 'self' data: yastatic.net; object-src yastatic.net; media-src *.captcha.yandex.net data:; connect-src mail.yandex.ru 'self' mc.yandex.ru suggest-maps.yandex.net mc.webvisor.com mc.webvisor.org yandex.ru; frame-src 'self' yandex.st s4.money.yandex.net yandex.ru  pass.yandex.ru passport.yandex.ru https://trust.yandex.ru blob: mc.yandex.ru; child-src 'self' yandex.st yandex.ru  passport.yandex.ru pass.yandex.ru https://trust.yandex.ru blob: mc.yandex.ru; report-uri https://csp.yandex.net/csp?from=passport&yandex_login=&yandexuid=
+X-Frame-Options: DENY
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+Surrogate-Control: no-store
+Cache-Control: no-store, no-cache, must-revalidate, proxy-revalidate
+Pragma: no-cache
+Expires: 0
+X-DNS-Prefetch-Control: off
+X-XSS-Protection: 1; mode=block
+P3P: policyref="/w3c/p3p.xml", CP="NON DSP ADM DEV PSD IVDo OUR IND STP PHY PRE NAV UNI"
+Set-Cookie: yandexuid=12077421555331556; Max-Age=315360000; Domain=.yandex.ru; Path=/; Expires=Thu, 12 Apr 2029 12:32:36 GMT
+Set-Cookie: uniqueuid=598406231555331556; Max-Age=315360000; Path=/; Expires=Thu, 12 Apr 2029 12:32:36 GMT; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: lah=; Domain=.passport.yandex.ru; Expires=Thu, 01 Jan 1970 00:00:01 GMT; Secure; HttpOnly; Path=/
+ETag: W/"60ed-i4lX44JOSs5g9V7TV+v9uQ"
+Strict-Transport-Security: max-age=315360000; includeSubDomains; preload
+Content-Encoding: gzip
+

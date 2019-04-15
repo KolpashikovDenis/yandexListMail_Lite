@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx/1.12.2
+Date: Fri, 12 Apr 2019 04:56:58 GMT
+Content-Type: image/gif
+Content-Length: 43
+Connection: keep-alive
+Last-Modified: Fri, 12-Apr-2019 04:56:58 GMT
+Expires: Fri, 12-Apr-2019 04:56:58 GMT
+Cache-Control: private, no-cache, no-store, must-revalidate, max-age=0
+Pragma: no-cache
+Access-Control-Allow-Origin: https://passport.yandex.ru
+Access-Control-Allow-Credentials: true
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000
+

@@ -1,0 +1,13 @@
+[t5]
+FileName1=t5_iecompatviewlist.xml
+URL1=https://iecvlist.microsoft.com/IE11/1479242656000/iecompatviewlist.xml
+Total=2
+ContentType=text/xml
+SnapshotXmlFile=snapshot_5.xml
+RequestHeaderFile=t5_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t5_ResponseHeader.txt
+FileName2=t5_watch.html
+URL2=https://mc.yandex.ru/metrika/watch.js?_=1555044978111
+[ProtocolInfo]
+ProtocolId=QTWeb

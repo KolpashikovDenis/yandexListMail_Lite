@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 12 Apr 2019 04:55:05 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Cache-Control: max-age=0, must-revalidate, proxy-revalidate, no-cache, no-store, private
+Content-Security-Policy: default-src 'none'; frame-src awaps.yandex.ru awaps.yandex.net blob: mc.yandex.ru yandexadexchange.net *.yandexadexchange.net yastatic.net *.yandex.ru; child-src awaps.yandex.ru awaps.yandex.net blob: mc.yandex.ru yandexadexchange.net *.yandexadexchange.net yastatic.net *.yandex.ru; media-src *.yandex.net yandex.st yastatic.net; script-src an.yandex.ru mc.webvisor.com mc.webvisor.org mc.yandex.az mc.yandex.by mc.yandex.co.il mc.yandex.com mc.yandex.com.am mc.yandex.com.ge mc.yandex.com.tr mc.yandex.ee mc.yandex.fr mc.yandex.kg mc.yandex.kz mc.yandex.lt mc.yandex.lv mc.yandex.md mc.yandex.ru mc.yandex.ru mc.yandex.tj mc.yandex.tm mc.yandex.ua mc.yandex.uz yandex.st yastatic.net 'unsafe-eval' 'unsafe-inline' 'nonce-be31946ad4f239c76b0858f5773eecf8' 'self'; style-src yastatic.net 'unsafe-inline' 'self'; img-src an.yandex.ru data: mc.webvisor.com mc.webvisor.org mc.yandex.az mc.yandex.by mc.yandex.co.il mc.yandex.com mc.yandex.com.am mc.yandex.com.ge mc.yandex.com.tr mc.yandex.ee mc.yandex.fr mc.yandex.kg mc.yandex.kz mc.yandex.lt mc.yandex.lv mc.yandex.md mc.yandex.ru mc.yandex.ru mc.yandex.tj mc.yandex.tm mc.yandex.ua mc.yandex.uz www.tns-counter.ru *.yandex.net yandex.st yastatic.net 'self'; connect-src an.yandex.ru mc.webvisor.com mc.webvisor.org mc.yandex.az mc.yandex.by mc.yandex.co.il mc.yandex.com mc.yandex.com.am mc.yandex.com.ge mc.yandex.com.tr mc.yandex.ee mc.yandex.fr mc.yandex.kg mc.yandex.kz mc.yandex.lt mc.yandex.lv mc.yandex.md mc.yandex.ru mc.yandex.ru mc.yandex.tj mc.yandex.tm mc.yandex.ua mc.yandex.uz yandex.st yastatic.net 'self'; object-src an.yandex.ru; report-uri https://csp.yandex.net/csp?yandexuid=1140716391554972219&yandex_login=pflbTestTestov&from=mail-lite&
+Expires: Fri, 12 Apr 2019 04:55:05 GMT
+Pragma: no-cache
+Set-Cookie: _skin=lite; path=/
+X-Frame-Options: SAMEORIGIN
+x-dns-prefetch-control: off
+Strict-Transport-Security: max-age=315360000
+X-Request-Id: 2a1ceeb46dd4982b5a8a7396796f810b
+X-XSS-Protection: 1; mode=block
+Content-Encoding: gzip
+X-Frame-Options: SAMEORIGIN
+x-dns-prefetch-control: off
+Strict-Transport-Security: max-age=315360000
+Cache-Control: private,no-cache,no-store,must-revalidate,max-age=0
+X-Request-Id: 2a1ceeb46dd4982b5a8a7396796f810b
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+
